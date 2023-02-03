@@ -1,5 +1,6 @@
 mempelajari framework JS
 belajar logika pemrograman
+- algoritma data
 belajar css framework tailwind atau bootstrap
 menguasai materi frontend developer 
 - angular dan vue js
