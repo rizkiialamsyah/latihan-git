@@ -1,3 +1,4 @@
 mempelajari framework JS
 belajar logika pemrograman
 belajar css framework tailwind atau bootstrap
+menguasai materi frontend developer
