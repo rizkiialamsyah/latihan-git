@@ -1,0 +1,3 @@
+mempelajari framework JS
+belajar logika pemrograman
+belajar css framework tailwind atau bootstrap
