@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+}
+
+.container {
+  margin: auto;
+  width: 1000px;
+}
+.header {
+  display: flex;
+  gap: 20px;
+  justify-content: space-around;
+  align-items: center;
+  background-color: bisque;
+  height: 60px;
+}
+.navigasi {
+  display: flex;
+  gap: 20px;
+}
+.logo {
+  background-color: black;
+}
+.banner {
+  display: flex;
+  justify-content: space-between;
+  padding: 100px;
+}
